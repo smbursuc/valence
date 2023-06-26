@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chat</title>
+</head>
+
+<body>
+    <div>
+        <h1 id="app">{{text}}</h1>
+    </div>
+
+    <script>
+        var socket = new WebSocket('ws://127.0.0.1:8000/ws/some_url/');
+
+        socket.onmessage = function(e) {
+            var data = JSON.parse(e.data);
+            console.log(data);
+            document.querySelector('#app').innerHTML = data.message;
+        };
+    </script>
+</body>
+</html>

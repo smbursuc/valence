@@ -1,0 +1,40 @@
+Imminence Jaded - Imminence Ghost:
+
+DTW distance with bars: 324.430903477435
+DTW distance with sections: 776.2438089550922
+Fast DTW distance with tatums: 489.33740500310955
+Fast DTW distance with beats: 388.4936212144501
+Fast DTW distance with segments: 305746.985600002
+
+Imminence Jaded - Tai Tomisawa Elphael:
+
+DTW distance with bars: 4994.313507014328
+DTW distance with sections: 905.3791391971012
+Fast DTW distance with tatums: 38540.500273468606
+Fast DTW distance with beats: 19326.199475865764
+Fast DTW distance with segments: 258227.99985999867
+
+Imminence Jaded - STARSET Perfect Machine:
+
+DTW distance with bars: 1543.0704632516424
+DTW distance with sections: 550.8463139930795
+Fast DTW distance with tatums: 11135.021731263549
+Fast DTW distance with beats: 5607.004054933257
+Fast DTW distance with segments: 404556.6718199978
+
+Imminence Jaded - Drag Me Out My Mistakes
+
+DTW distance with bars: 484.7231940830458
+DTW distance with sections: 908.937782603885
+Fast DTW distance with tatums: 2351.462714860375
+Fast DTW distance with beats: 1275.3770299158632
+Fast DTW distance with segments: 265121.9279699999
+
+Imminence Jaded - Ed Sheeran Perfect
+
+DTW distance with bars: 121.66289541340606
+DTW distance with sections: 830.8469675129064
+Fast DTW distance with tatums: 520.6807019046341
+Fast DTW distance with beats: 327.1408101882949
+Fast DTW distance with segments: 330034.2533099946
+

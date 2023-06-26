@@ -1,0 +1,24 @@
+band_name,genres,songs,year
+Slipknot,"['nu metal', 'rap metal', 'alternative metal']","['Wait and Bleed', 'The Devil in I', 'Psychosocial', 'Duality', 'Before I Forget']","['2009-09-09', '2014-10-15', '2008-08-20', '2004', '2004']"
+AC/DC,"['australian rock', 'rock', 'hard rock']","['Highway to Hell', 'Thunderstruck']","['1979-07-27', '1990-09-24']"
+Limp Bizkit,"['nu metal', 'funk metal', 'rap metal', 'alternative metal']","[""Rollin' (Air Raid Vehicle)""]",['2000-10-17']
+System Of A Down,"['nu metal', 'rap metal', 'alternative metal']","['Aerials', 'ATWA', 'Violent Pornography', 'Attack', ""Kill Rock 'n Roll"", 'B.Y.O.B.', 'Sugar', 'Hypnotize', 'I-E-A-I-A-I-O']","['2001-09-04', '2001-09-04', '2005-05-17', '2005-11-18', '2005-11-18', '2005-05-17', '1998', '2005-11-18', '1998']"
+Linkin Park,"['nu metal', 'rap metal', 'post-grunge', 'alternative metal']","['Numb', 'Faint', 'Papercut']","['2003-03-24', '2003-03-24', '2000-10-24']"
+Red Hot Chili Peppers,"['funk rock', 'funk metal', 'permanent wave', 'alternative rock']",['Give It Away'],['1991-09-24']
+Eagles,"['country rock', 'yacht rock', 'heartland rock', 'mellow gold', 'soft rock', 'rock', 'classic rock', 'folk rock', 'album rock']",['Hotel California - 2013 Remaster'],['1976-12-08']
+Pantera,"['texas metal', 'hard rock', 'alternative metal', 'old school thrash', 'metal', 'rock', 'groove metal', 'nu metal']","['Walk', 'Cemetery Gates', 'Cowboys from Hell']","['1992-02-21', '1990-07-20', '1990-07-20']"
+Megadeth,"['hard rock', 'alternative metal', 'thrash metal', 'old school thrash', 'metal', 'rock', 'speed metal', 'melodic thrash']",['Holy Wars...The Punishment Due - 2004 Remix'],['1990-10-04']
+Metallica,"['hard rock', 'thrash metal', 'old school thrash', 'metal', 'rock']","['One', 'Seek & Destroy - Remastered', 'Master Of Puppets', 'Enter Sandman', 'Fuel', 'Sad But True', 'For Whom The Bell Tolls - Remastered']","['1988-08-25', '1983-07-24', '1986-03-03', '1991-08-12', '1997-01-01', '1991-08-12', '1984-07-26']"
+The Offspring,"['socal pop punk', 'alternative metal', 'skate punk', 'permanent wave', 'rock', 'punk']",['Pretty Fly (For A White Guy)'],['1998-11-16']
+Guns N' Roses,"['rock', 'hard rock', 'glam metal']","['This I Love', 'Welcome To The Jungle']","['2008-11-23', '1987-07-21']"
+Vita de Vie,['romanian rock'],['Sunetul mai tare'],['2001-01-01']
+Black Sabbath,"['hard rock', 'birmingham metal', 'stoner rock', 'metal', 'rock', 'classic rock', 'uk doom metal', 'album rock']",['Iron Man'],['1970-09-18']
+Rage Against The Machine,"['conscious hip hop', 'rap metal', 'alternative metal', 'political hip hop', 'alternative rock', 'rock', 'rap rock', 'funk metal', 'nu metal']","['Killing In The Name', 'Guerrilla Radio']","['1992', '1999-11-02']"
+Disturbed,"['nu metal', 'rap metal', 'alternative metal']","['Stricken', 'Down with the Sickness']","['2005-09-19', '2000-03-07']"
+Drowning Pool,"['rap metal', 'alternative metal', 'post-grunge', 'industrial metal', 'rap rock', 'nu metal']",['Bodies'],['2001-01-01']
+Rammstein,"['german metal', 'alternative metal', 'neue deutsche harte', 'industrial rock', 'industrial metal', 'industrial']",['Du hast'],['1997-08-25']
+Judas Priest,"['hard rock', 'birmingham metal', 'power metal', 'metal', 'rock', 'classic rock', 'album rock']",['Painkiller'],['1990-09-26']
+Papa Roach,"['nu metal', 'rap metal', 'alternative metal', 'rap rock']",['Last Resort'],['2001-04-25']
+Ozzy Osbourne,"['hard rock', 'birmingham metal', 'metal', 'rock', 'album rock']",['Crazy Train'],['2020-09-18']
+Iron Maiden,"['nwobhm', 'metal', 'rock', 'hard rock']",['Fear of the Dark - 2015 Remaster'],['1992']
+Chimaira,"['alternative metal', 'cleveland metal', 'industrial metal', 'metalcore', 'rap rock', 'groove metal', 'melodic metalcore', 'nu metal']",['On Broken Glass'],['2009-04-24']
